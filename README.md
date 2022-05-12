@@ -8,7 +8,7 @@
  
  Para jogar, basta apenas clicar no link e utilizar as setas: 
  
- https://editor.p5js.org/caiotorves/sketches/xwnZ29pB9
+ https://editor.p5js.org/caiotorves/full/xwnZ29pB9
   
     
     ////////////
@@ -21,4 +21,4 @@
  
  To play, just click on the link and use the arrows:
  
- https://editor.p5js.org/caiotorves/sketches/xwnZ29pB9
+ https://editor.p5js.org/caiotorves/full/xwnZ29pB9
