@@ -10,9 +10,11 @@
  
  https://editor.p5js.org/caiotorves/full/xwnZ29pB9
   
-    
-    ////////////
-    
+ #  
+ #  
+ 
+ 
+ 
  This game is part of the Training for Beginners of the Alura Teaching Platform (https://www.alura.com.br).
  
  The game alludes to an Atari classic: FreeWay. I've included the TopGear song yet.
@@ -22,3 +24,7 @@
  To play, just click on the link and use the arrows:
  
  https://editor.p5js.org/caiotorves/full/xwnZ29pB9
+
+
+![gif little cow](https://user-images.githubusercontent.com/99504577/168304996-5e01c486-8df0-4c74-80e2-9506658ef836.gif)
+
